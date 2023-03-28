@@ -1,0 +1,25 @@
+h1 {
+    font-size: xx-large;
+    color: blue;
+}
+h2 {
+    color: black;
+    background-color: blueviolet;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h3 {
+    font-style: italic;
+    font-stretch: normal;
+    color: brown;
+}
+nav {
+    font-style: oblique;
+    font-weight: bolder;
+}
+body {
+    color: black;
+    font-size: medium;
+    
+
+}
