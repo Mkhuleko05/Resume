@@ -1,10 +1,10 @@
 section
 h1 {
     font-size: xx-large;
-    background-color: blue;
+    color: blue;
 }
 h2 {
-    color: black;
+    color: rgb(158, 84, 84);
     background-color: blueviolet;
     font-size: large;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -22,7 +22,7 @@ nav {
 body {
     color: black;
     font-size: medium;
-
+    
     
 
 }
