@@ -1,13 +1,17 @@
 section
-h1{
-    border: 200px;
-    margin: 200px;
-    padding: 100px;
+h1 {
+    border: 2px solid blue;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: 25px;
+    
 }
 img{
     display: block;
     margin: 0px auto;
-    
 }
 
 h2 {
