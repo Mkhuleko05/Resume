@@ -1,8 +1,15 @@
 section
 h1 {
-    font-size: xx-large;
-    color: blue;
+    text-align: center;
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: 25px;
 }
+img{
+    display: block;
+    margin: 0px auto;
+}
+
 h2 {
     color: rgb(142, 22, 106);
     background-color: rgba(6, 2, 9, 0.766);
