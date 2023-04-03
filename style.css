@@ -30,9 +30,6 @@ body {
     text-decoration: none;
     color: rgb(198, 156, 78);
 }
-{
-    #back-to-top > button > :right
-}
 
 /* ---- Nav --- */
 
@@ -118,4 +115,8 @@ main {
     color: whitesmoke;
     text-align: center;
     padding: 2rem;
+}
+
+#header-image {
+    position: relative;
 }
