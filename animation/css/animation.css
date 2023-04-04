@@ -15,3 +15,8 @@ div {
   animation-duration: 4s;
   animation-iteration-count: infinite;    
 } 
+img{
+  width: 160px;
+  height: 570px;
+
+}
