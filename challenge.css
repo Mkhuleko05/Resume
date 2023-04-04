@@ -1,4 +1,4 @@
-<link style.css>
+
 
 /* 
     Write CSS here to ensure that the back to top button is fixed to the 
@@ -19,7 +19,9 @@
 
 /* relatively position header image inside header element using CSS here */
 #header-image {
-
+position: relative;
+overflow: visible;
+top: 80px;
   
 }
 
