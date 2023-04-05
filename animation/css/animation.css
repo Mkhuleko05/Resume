@@ -3,3 +3,9 @@
     padding: 0;
     background: #313131;
    } 
+   .animation{
+    width: 700px;
+    height: 480px;
+    background: url(image\facebook-logo-2021.svg);
+    margin: 100px auto;
+   }
