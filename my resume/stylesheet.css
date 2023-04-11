@@ -1,6 +1,6 @@
 section
 h1 {
-    border: 2px solid rgb(255, 0, 195);
+    border: 2px solid rgb(26, 61, 190);
     padding: 20px;
     margin: 20px;
     text-align: center;
@@ -8,6 +8,13 @@ h1 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin-bottom: 25px;
     
+}
+
+hero-image{
+    background-image: linear-gradient(rgba(0,0,0))url(IMG-20221017-WA0002.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 img{
     display: block;
@@ -43,7 +50,7 @@ body {
     margin:0px;
 }
 h1{
-    background-color: blue;
+    background-color: rgb(16, 68, 172);
     color: rgb(18, 15, 15);
     padding-left: 10px;
     padding-right: 10px;
