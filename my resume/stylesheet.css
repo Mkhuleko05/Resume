@@ -109,15 +109,5 @@ h2{
         height: 10px;
         width: 10px;
 }
-    }
-}
-}
-       
-
-/*----------- laptop screen -------*/
-
-@media only screen and(max-width:500px){
-    h1{
+ }
         
-    }
-}
