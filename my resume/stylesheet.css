@@ -18,7 +18,7 @@ hero-image{
     background-size: cover;
     height: 5px;
     
-  
+
 }
 img{
     display: block;
@@ -70,6 +70,17 @@ background-color: rgb(249, 20, 245);
 height: 100px;
 width: 100px;;
 }
+/*--------- mobile -----------*/
 
 
-
+@media only screen and(max-width:400px) {
+body{
+    background-color: aqua;
+    height: 10px;
+    width: 10px;
+}
+h1{
+    text-decoration-color: rgb(231, 39, 196);
+}
+}
+/*---------- Tablet ---------*/
