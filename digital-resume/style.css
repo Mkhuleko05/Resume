@@ -4,6 +4,9 @@ body{
     background-image: radial-gradient(#c7c7c7);
     font-family: system-ui;
 }
+.clearfix{
+    clear: both;
+}
 .main{
     height: 1150px;
     width: 800px;
@@ -12,6 +15,17 @@ body{
     margin: 20px auto;
 }
 .top-section{
+    width: 150px;
+    border-radius: 50%;
+
+}
+.top-section{
+    background-color: #151629;
+    text-align: center;
+    padding: 20px;
+
+}
+.profile{
     width: 150px;
     border-radius: 50%;
     
