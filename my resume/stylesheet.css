@@ -11,11 +11,12 @@ h1 {
 }
 
 hero-image{
-    background-image: linear-gradient(rgb(0, 0, 0))url(IMG-20221017-WA0002.jpg);
+    background-image: linear-gradient(to padding-right)url(IMG-20221017-WA0002.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     height: 5px;
+    
   
 }
 img{
