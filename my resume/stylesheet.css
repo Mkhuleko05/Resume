@@ -74,14 +74,28 @@ width: 100px;;
 /*--------- mobile -----------*/
 
 
-@media only screen and(max-width:400px) {
+@media only screen and(max-width:250px) {
 body{
     background-color: aqua;
-    height: 10px;
-    width: 10px;
+    height: 20px;
+    width: 20px;
 }
 h1{
     text-decoration-color: rgb(231, 39, 196);
 }
 }
 /*---------- Tablet ---------*/
+
+@media only screen and(max-width:500px) {
+    body{
+        background-color: aqua;
+        height: 10px;
+        width: 10px;
+
+/*----------- laptop screen -------*/
+
+@media only screen and(max-width:500px) {
+    body{
+        background-color: aqua;
+        height: 0px;
+        width: 0px;
