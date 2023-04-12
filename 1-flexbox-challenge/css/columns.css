@@ -13,3 +13,7 @@ li {
     /* add solution here.. */
 
 }
+.box{
+    display: flex;
+    align-items: flex-start;
+}
