@@ -67,6 +67,8 @@
     font-size: 20px;
     text-transform: uppercase;
     font-weight: 600px;
+    color: rgb(12, 41, 228);
+    background-color: aqua;
 }
 .p3{
     color: #c7c7c7;
@@ -91,4 +93,5 @@
 }.col-div-8{
     font-size: 20px;
     float:left;
+    
 }
