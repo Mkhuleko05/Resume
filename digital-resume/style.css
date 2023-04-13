@@ -35,7 +35,7 @@
     color: white;
     font-size: 40px;
     font-weight: bold;
-    margin: 0px;
+    margin: 5px;
     margin-top: 10px;
 
 }
@@ -81,7 +81,7 @@
 }
 .skills{
     margin-left: 20px;
-    margin-bottom: 0px;
+    margin-bottom: 20px;
 
 }
 .skill li{
