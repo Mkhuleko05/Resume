@@ -1,7 +1,7 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-image: radial-gradient(#c7c7c7);
+    background-image: radial-gradient(#c7c7c7 25%, #c7c7c7 74%);
     font-family: system-ui;
 }
 .clearfix{
@@ -17,16 +17,4 @@ body{
 .top-section{
     width: 150px;
     border-radius: 50%;
-
-}
-.top-section{
-    background-color: #151629;
-    text-align: center;
-    padding: 20px;
-
-}
-.profile{
-    width: 150px;
-    border-radius: 50%;
-    
 }
