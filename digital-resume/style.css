@@ -51,10 +51,8 @@
     width: 35%;
     float: left;
 }
-.col-div-8{
-    width: 62%;
-    float: left;
-}
+
+
 .line{
     border-left: 1px solid #302f2f;
     height: 800px;
@@ -90,4 +88,7 @@
 .p4{
     font-size: 14px;
     color: #c7c7c7;
+}.col-div-8{
+    font-size: 20px;
+    float: left;
 }
